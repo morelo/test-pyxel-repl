@@ -1,5 +1,6 @@
 import pyxel , random
 # test push2
+# push pc vers distant
 
 class Vaisseau:
     def __init__(self,x,y) :
