@@ -1,8 +1,10 @@
 import pyxel, random
-# test push6
+# test push7
+
 
 
 class Vaisseau:
+    #commentaire
     def __init__(self, x, y):
         self.vaisseau_x = x
         self.vaisseau_y = y
