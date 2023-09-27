@@ -1,5 +1,5 @@
 import pyxel , random
-# test push
+# test push2
 
 class Vaisseau:
     def __init__(self,x,y) :
